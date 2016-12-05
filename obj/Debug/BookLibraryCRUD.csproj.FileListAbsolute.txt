@@ -1,0 +1,8 @@
+S:\Программирование\VS\BookLibraryCRUD\BookLibraryCRUD\bin\Debug\BookLibraryCRUD.exe.config
+S:\Программирование\VS\BookLibraryCRUD\BookLibraryCRUD\bin\Debug\BookLibraryCRUD.exe
+S:\Программирование\VS\BookLibraryCRUD\BookLibraryCRUD\bin\Debug\BookLibraryCRUD.pdb
+S:\Программирование\VS\BookLibraryCRUD\BookLibraryCRUD\bin\Debug\Newtonsoft.Json.dll
+S:\Программирование\VS\BookLibraryCRUD\BookLibraryCRUD\bin\Debug\Newtonsoft.Json.xml
+S:\Программирование\VS\BookLibraryCRUD\BookLibraryCRUD\obj\Debug\BookLibraryCRUD.csprojResolveAssemblyReference.cache
+S:\Программирование\VS\BookLibraryCRUD\BookLibraryCRUD\obj\Debug\BookLibraryCRUD.exe
+S:\Программирование\VS\BookLibraryCRUD\BookLibraryCRUD\obj\Debug\BookLibraryCRUD.pdb
