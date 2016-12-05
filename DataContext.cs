@@ -3,7 +3,7 @@ using Newtonsoft.Json;
 
 namespace BookLibraryCRUD
 {
-    class BookJsonConnector
+    class DataContext
     {
         string json;
 

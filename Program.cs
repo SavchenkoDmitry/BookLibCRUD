@@ -10,10 +10,10 @@ namespace BookLibraryCRUD
     {
         static void Main()
         {
-            BookJsonConnector bjc = new BookJsonConnector();
+            DataContext bjc = new DataContext();
             List<Book> books = InitBooks();
             bjc.WriteInfo(books);
-            LibraryJsonCRUD lib = new LibraryJsonCRUD(bjc);
+            BookRepository lib = new BookRepository(bjc);
             CRUDTextView tv = new CRUDTextView(System.Console.In, System.Console.Out);
             CRUDSession session = new CRUDSession(tv, lib);
             session.RunLoop();

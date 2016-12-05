@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace BookLibraryCRUD
 {
-    class LibraryJsonCRUD
+    class BookRepository
     {
-        private BookJsonConnector connector;
-        public LibraryJsonCRUD(BookJsonConnector bjc)
+        private DataContext connector;
+        public BookRepository(DataContext bjc)
         {
             connector = bjc;
         }

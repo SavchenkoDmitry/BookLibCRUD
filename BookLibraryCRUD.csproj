@@ -48,9 +48,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Book.cs" />
-    <Compile Include="BookJsonConnector.cs" />
+    <Compile Include="DataContext.cs" />
     <Compile Include="CRUDSession.cs" />
-    <Compile Include="LibraryJsonCRUD.cs" />
+    <Compile Include="BookRepository.cs" />
     <Compile Include="CRUDTextView.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

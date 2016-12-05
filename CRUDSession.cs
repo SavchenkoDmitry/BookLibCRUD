@@ -9,8 +9,8 @@ namespace BookLibraryCRUD
     class CRUDSession
     {
         CRUDTextView tv;
-        LibraryJsonCRUD crud;
-        public CRUDSession(CRUDTextView _tv, LibraryJsonCRUD _crud)
+        BookRepository crud;
+        public CRUDSession(CRUDTextView _tv, BookRepository _crud)
         {
             tv = _tv;
             crud = _crud;
